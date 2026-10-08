@@ -1,0 +1,7 @@
+//WAQP that print 2,4,6,8....N
+#incliude<stdio.h>
+#incliude<conio.h>
+
+void main()
+{
+		int i,N;
